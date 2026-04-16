@@ -69,6 +69,5 @@ def main():
     print(f"Total pago: R$ {total:.2f}")
     print(f"Total de juros: R$ {juros:.2f}")
 
-
 # Chama a função com o codigo principal
 main()
