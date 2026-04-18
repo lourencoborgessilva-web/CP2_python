@@ -6,3 +6,4 @@
 - Lourenco Borges da Silva - RM: 569515
 - Caio César Portela França - RM: 573127
 - Gustavo Curis de Francisco - RM: 569704
+- Tiago Pimentel Muniz - RM: 574148
